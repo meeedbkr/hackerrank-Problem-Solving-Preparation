@@ -1,0 +1,26 @@
+# C
+*.out
+*.o
+*.exe
+
+# Java
+bin/
+target/
+*.class
+
+# JavaScript
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pywz
+venv/
+env/
+*.env
+*.venv
+env.bak/
